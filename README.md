@@ -4,3 +4,8 @@
 Week 4
 * Login
 * Signup
+
+Week 5
+* Remember me
+* Update/Delete user
+* Account activation
